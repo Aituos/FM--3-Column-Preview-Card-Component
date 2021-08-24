@@ -1,7 +1,7 @@
 # Frontend Mentor - 3 Column Preview Card Component
 
 <p align="center" width="100%">
-    <img width="50%" src="https://raw.githubusercontent.com/Aituos/FM--3-Column-Preview-Card-Component/main/FinishedPreview.jpg">
+    <img width="50%" src="https://raw.githubusercontent.com/Aituos/FM--3-Column-Preview-Card-Component/main/FinishedPreview.png">
 </p>
 
 3 Column Preview Card Component design from the website Frontend Mentor.
